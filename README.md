@@ -19,7 +19,7 @@ This project is a simple implementation of the classic Space Invaders game, but 
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/yourusername/space-invaders.git
+    git clone https://github.com/ShrekEnjoyerAno/SpaceInvaders
     ```
 
 2. **Navigate to the project directory:**
